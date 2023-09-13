@@ -49,3 +49,4 @@ class Field:
             time.sleep(3)     
             print(init.field)
             
+#єбать

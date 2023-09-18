@@ -1,4 +1,4 @@
-## init
+## init 
 import numpy as np
 import random
 class Settings: 

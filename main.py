@@ -5,18 +5,17 @@
 
 ## Запуск файла
 
-from src import field  # field# зробити імпорт з одного файла
+from src import game  # field# зробити імпорт з одного файла
 
 # Ініціалізація середовища 
 '''
 initField = settings.initField(10,10)
 initField.initField()
 '''
-field = field.Field()
-field.gameField()
+game = game.Field()
+game.gameField()
 
 
 # 
 
 
-    

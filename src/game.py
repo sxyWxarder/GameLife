@@ -7,8 +7,10 @@ import time
 
 class Game:   
     def gameField(self):   # перевірка діапазону
-        init = settings.initField(10,10)
+        init = settings.initField(10,10) 
         init.initField()
+        # ... init field in code and use on
+        
         try:
             while True:
                 for x in range(9): 
